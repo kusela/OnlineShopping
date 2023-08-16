@@ -1,24 +1,17 @@
-# Ecommerce-Website [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-The *Planet Shopify* is a ecommerce website.Developed using php in backend and mysql database and used html and bootstrap in frontend.
-Also used [formspree](https://formspree.io) in contact form.
+In this online shopping website project, I successfully persuaded them to establish a robust online
+presence for his supermarket business after thorough discussions with my father and his friends. The
+resulting platform, SVG MART NAIDUPETA, will serve as an integrated digital solution encompassing
+a Super Market, Grocery Store, and Stationary outlet situated in Naidupeta, Andhra Pradesh,
+India.Leveraging a combination of HTML, CSS, JavaScript, PHP, and MySQL, our website will provide a
+user-friendly interface for customers to browse, select, and purchase a diverse range of products.
+With a focus on convenience and accessibility, we aim to bridge the gap between traditional brick-
+and-mortar shopping and the digital era, facilitating seamless transactions and enhancing the
+shopping experience for the local community in Naidupeta and beyond.
 
-## Technologies
-- [PHP](https://www.php.net/docs.php)
-- [Bootstrap](https://getbootstrap.com)
-- [MySQL](https://www.mysql.com)
-- [HTML](https://www.w3schools.com/html/default.asp)
-- [CSS](https://www.w3schools.com/css/default.asp)
-
-[view screenshots](https://winston-dsouza.github.io/#projects)
-
-![index](https://github.com/winston-dsouza/winston-dsouza.github.io/blob/master/images/ecom/productgif.gif)
-
-## Set Up Instructions For Running Website
-- Start the Apache and MySQL modules using the **XAMPP** controller.
-- Open the **phpMyAdmin** and create a database **"ecommerce"**. 
-- Import the **ecommerce.sql** file present in the zip folder.
-- Open the htdocs folder in the xampp folder. Copy paste the folder **Planet-Shopify-ecommerce-website**.
-- Open the browser (chrome), type *localhost/Planet-Shopify-ecommerce-website* and you should see the index page of the website.
-
-
-*Note: In about.php in this [line](https://github.com/winston-dsouza/Planet-Shopify-ecommerce-website/blob/master/about.php#L71) enter your email* and activate the form
+Combining HTML, CSS, JavaScript, PHP, and MySQL, our online shopping platform, SVG MART
+NAIDUPETA, reimagines the Super Market, Grocery Store, and Stationary experience in Naidupeta,
+Andhra Pradesh, India. Through dynamic design and interactivity, we offer a seamless interface for
+customers to conveniently explore a diverse range of products. Our secure backend ensures smooth
+transactions, while thoughtful categorization and localized features cater to specific needs. By
+merging the convenience of digital shopping with community-oriented service, we aim to provide
+Naidupeta residents with an accessible, modern, and engaging shopping destination.
